@@ -3,25 +3,15 @@
 <h3 align="center">located in Berlin</h3>
 
 <hr>
-
 <br>
+
 <img align="right" alt="Coding" height="200" src="https://gifdb.com/images/high/cowboy-bebop-edward-balancing-fqfdbpndc783uduo.gif">
 <p><b>23-04-06:</b><br> Just finished the Piscine (a one month selection phase) at <a href="https://42berlin.de/" rel="noreferrer">42 Berlin</a> and hoping to continue from the 2nd of May.</p>
 <p><b>23-02-22:</b><br> Finished a 5 month Full Stack Web Development course at <a href="https://www.super-code.de/" rel="noreferrer">Supercode</a>.</p>
 
-
 <br>
 <br>
 <hr>
-
-
-<h3 align="center">Stay in touch</h3>
-
-***
-
-<p align="center">
-<a href="https://www.linkedin.com/in/jessica-b%C3%B6rner-11180b258/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jessica-b%C3%B6rner-11180b258/" height="30" width="40" /></a>
-</p>
 
 <h3 align="center">Tech Stack</h3>
 <p align="center"><a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" alt="Html5" width="40" height="40"/></a>
@@ -42,6 +32,14 @@
 <p>Final Project at Supercode (with MERN):</p>
 <p><a href=https://github.com/YubiFuu/Finco>On Github</a>   ||   <a href="https://finco-client.onrender.com">As Website</a></p>
 <p><i>The free version of Render puts projects asleep when there is no activity. When you enter the page, you awaken them. When you see the loading page, the client is awakening the server page. Please be patient.</i></p>
+
+<hr>
+
+<h3 align="center">Stay in touch</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/jessica-b%C3%B6rner-11180b258/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jessica-b%C3%B6rner-11180b258/" height="30" width="40" /></a>
+</p>
+
 
 
 
