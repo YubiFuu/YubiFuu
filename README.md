@@ -14,19 +14,17 @@
 <br>
 <hr>
 
-<p>Final Project at Supercode (with MERN):</p>
-<p><a href=https://github.com/YubiFuu/Finco>On Github</a>   ||   <a href="https://finco-client.onrender.com">As Website</a></p>
-<p><i>The free version of Render puts projects asleep when there is no activity. When you enter the page, you awaken them. When you see the loading page, the client is awakening the server page. Please be patient.</i></p>
 
-<hr>
+<h3 align="center">Stay in touch</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+***
+
+<p align="center">
 <a href="https://www.linkedin.com/in/jessica-b%C3%B6rner-11180b258/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jessica-b%C3%B6rner-11180b258/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tech Stack:</h3>
-<p><a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" alt="Html5" width="40" height="40"/></a>
+<h3 align="center">Tech Stack</h3>
+<p align="center"><a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" alt="Html5" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" alt="Css3" width="40" height="40"/> </a> 
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="JavaScript" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/MongoDB" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" alt="MongoDB" width="40" height="40"/> </a>
@@ -37,5 +35,14 @@
 <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="VisualStudioCode" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/Figma_(software)" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/cdd289ae72f33665800bc6a63936d5afa0454214d520945780894151112a055f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667" alt="Figma" width="40" height="40"/> </a>
 </p>
+
+<hr>
+
+<h3>Worksample</h3>
+<p>Final Project at Supercode (with MERN):</p>
+<p><a href=https://github.com/YubiFuu/Finco>On Github</a>   ||   <a href="https://finco-client.onrender.com">As Website</a></p>
+<p><i>The free version of Render puts projects asleep when there is no activity. When you enter the page, you awaken them. When you see the loading page, the client is awakening the server page. Please be patient.</i></p>
+
+
 
 
