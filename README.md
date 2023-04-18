@@ -6,10 +6,10 @@
 <br>
 
 <img align="right" alt="Coding" height="200" src="https://gifdb.com/images/high/cowboy-bebop-edward-balancing-fqfdbpndc783uduo.gif">
-<p><b>23-04-06:</b><br> Just finished the Piscine (a one month selection phase) at <a href="https://42berlin.de/" rel="noreferrer">42 Berlin</a> and hoping to continue from the 2nd of May.</p>
+<p><b>23-05-02:</b><br> Starting the curriculum at 42 Berlin.</p>
+<p><b>23-04-06:</b><br> Finished the Piscine (a one month selection phase) at <a href="https://42berlin.de/" rel="noreferrer">42 Berlin</a></p>
 <p><b>23-02-22:</b><br> Finished a 5 month Full Stack Web Development course at <a href="https://www.super-code.de/" rel="noreferrer">Supercode</a>.</p>
 
-<br>
 <br>
 <hr>
 
